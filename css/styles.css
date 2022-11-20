@@ -1,0 +1,157 @@
+body{
+    text-align: center;
+    margin: 0px;
+    padding-top: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    margin: 0 auto 0 auto;
+    font-family: 'Courgette', cursive;
+    font-size: 5.62em;
+    color: #66BFBF;
+    line-height: 1;
+}
+
+h2{
+    font-family: 'Josefin Sans', sans-serif;
+    color: #66BFBF;
+    font-weight: normal;
+}
+.top-container{
+    background-color: #fefeff;
+}
+
+
+.glemmen{
+    font-size: 2.5rem;
+}
+.benjamin{
+    width: 30%;
+}
+.profile{
+    position: relative left 100%;
+}
+.skill-row{
+    width: 50%;
+    margin: 70px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.code-image{
+    width: 20%;
+    float: left;
+    margin-right: 30px;
+}
+.code-image-2{
+    width: 20%;
+    float: right;
+    margin-left: 30px;
+}
+hr{
+    border-style: none;
+    border-bottom-style: dotted;
+    border-width: 5px;
+    width: 5%;
+    margin: 50px auto 50px auto;
+    border-color: #66BFBF;
+    
+}
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+    color: #11999e;
+}
+.footer-link{
+    color: #11999e;
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none
+}
+
+a:hover{
+    color: #eaf6f6;
+}
+.copyright{
+    color: #eaf6f6;
+    font-size: 0.75rem;
+    padding: 20px 0px;
+}
+.contact-me{
+    margin: 50px auto 50px auto ;
+    text-align: center;
+    font-size: large;
+}
+
+
+.bottom-container{
+    text-align: center;
+  }
+  .hr-contact{
+    border-style: none;
+    border-bottom-style: dotted;
+    border-width: 5px;
+    width: 5%;
+    margin: 50px auto 0px auto;
+    border-color: #66BFBF;
+  }
+  .send-sms{
+    position: relative right 50em;
+  }
+  .tekstfelt-og-epost{
+    margin: 3% 30%;
+    text-align: left;
+  }
+  .e-post-index{
+    text-decoration: none;
+    color: black;
+  }
+  .e-post-index:hover{
+    color: rgb(182, 172, 172);
+  }
+  .Planer{
+    text-align: center;
+    margin: 0% 20% 4% 20%;
+    font-size: 1.6em;
+  }
+  .utdanning-div{
+    text-align: center;
+    margin: auto 30% auto 30%;
+  }
+  .utdanning-liste{
+    text-align: center;
+    margin: 3% 20% 5% 20%;
+
+  }
+.hr-utdanning{
+    border-style: none;
+    border-bottom-style: dotted;
+    border-width: 5px;
+    width: 5%;
+    margin: 0px auto 32px auto;
+    border-color: #66BFBF;
+}
+.Arbeidserfaring{
+    text-align: center;
+    margin: auto 15%;
+}
+.h1-arbeidserfaring{
+    margin: 0 auto 0 auto;
+    font-family: 'Courgette', cursive;
+    font-size: 400%;
+    color: #66BFBF;
+    line-height: 1;
+
+}
+.hr-arbeidserfaringer{
+    border-style: none;
+    border-bottom-style: dotted;
+    border-width: 5px;
+    width: 7%;
+    margin: 5% auto 5% auto;
+    border-color: #66BFBF;
+    text-align: center;
+}
+.ul-arbeid{
+    text-align: center;
+}
+ 
+
